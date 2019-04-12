@@ -6,13 +6,15 @@ Ajuda para quem quiser instalar e perceber como correr Prolog na sua máquina.
 
 Fazer download da [última stable version do SWI-Prolog](http://www.swi-prolog.org/download/stable).
 
-![alt text](/lp/prolog-setup-help-imgs/prolog-download.JPG "prolog-download")
+![alt text](/lp/prolog-setup-help-imgs/prolog-download.JPG "prolog download")
 
 Em princípio, ficas com a aplicação "normal" (SWI-Prolog) e a consola (SWI-Prolog console).
 
 ## 2. Criar ficheiro .pl
  
 Escreve o teu código no teu editor de texto favorito, guardando-o como <nome-do-ficheiro>.pl
+
+![alt text](/lp/prolog-setup-help-imgs/programa-exemplo.JPG "prolog programa exemplo")
 
 ## 3. Importar e usar o teu programa
 
