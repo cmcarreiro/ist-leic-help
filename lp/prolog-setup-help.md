@@ -14,17 +14,19 @@ Em princípio, ficas com a aplicação "normal" (SWI-Prolog) e a consola (SWI-Pr
  
 Escreve o teu código no teu editor de texto favorito, guardando-o como <nome-do-ficheiro>.pl
 
-![alt text](/lp/prolog-setup-help-imgs/programa-exemplo.JPG "prolog programa exemplo")
+![alt text](/lp/prolog-setup-help-imgs/programa-exemplo-2.JPG "prolog programa exemplo")
 
 ## 3. Importar e usar o teu programa
 
 - Abrir a consola (SWI-Prolog console)
 
-- Correr o seguinte comando:
+- No **Windows** correr:
+```?- working_directory(_, "<diretoria>").```
 
-```?- working_directory(_, "<a-tua-diretoria-onde-está-o-ficheiro>").```
+- No **Mac** correr:
+```?- working_directory(_, "/Users/<diretoria>").```
 
-Nota1: Sim, podes usar o teu amigo Ctrl-C; Ctrl-V
+Nota1: Sim, podes usar o teu amigo Ctrl-C; Ctrl-V.
 
 ATENÇÃO: na diretoria deves acrescentar uma \ por cada \ no caminho, tal como no exemplo!
 
@@ -32,7 +34,7 @@ ATENÇÃO: na diretoria deves acrescentar uma \ por cada \ no caminho, tal como 
 
 ```?- [programa].```
 
-![alt text](/lp/prolog-setup-help-imgs/prolog-console.JPG "prolog console exemplo")
+![alt text](/lp/prolog-setup-help-imgs/prolog-console-2.JPG "prolog console exemplo")
 
 A partir deste momento podes escrever a query que quiseres! :)
 
