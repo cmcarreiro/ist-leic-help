@@ -2,5 +2,9 @@
 Helpful stuff
 
 ## to-do list
-- [X] criar help prolog
-- [ ] help prolog: acrescentar include (útil para o proj1)
+- [X] lp >> criar help prolog
+- [ ] lp >> help prolog: acrescentar include (útil para o proj1)
+
+## ideias
+- [ ] fp >> jupyter notebooks
+- [ ] al >> tensorflow
