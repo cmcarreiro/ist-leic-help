@@ -34,7 +34,7 @@ ATENÇÃO: na diretoria deves acrescentar uma \ por cada \ no caminho, tal como 
 
 ```?- [programa].```
 
-![alt text](/lp/prolog-setup-help-imgs/prolog-console-2.JPG "prolog console exemplo")
+![alt text](/lp/prolog-setup-help-imgs/prolog-console-3.JPG "prolog console exemplo")
 
 A partir deste momento podes escrever a query que quiseres! :)
 
