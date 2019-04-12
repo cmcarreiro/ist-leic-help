@@ -31,7 +31,6 @@ Nota1: Sim, podes usar o teu amigo Ctrl-C; Ctrl-V.
 ATENÇÃO: na diretoria deves acrescentar uma \ por cada \ no caminho, tal como no exemplo!
 
 - Corres o teu programa assim:
-
 ```?- [programa].```
 
 ![alt text](/lp/prolog-setup-help-imgs/prolog-console-3.JPG "prolog console exemplo")
