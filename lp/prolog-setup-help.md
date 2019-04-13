@@ -23,7 +23,7 @@ Escreve o teu código no teu editor de texto favorito, guardando-o como <nome-do
 - No **Windows** correr:
 ```?- working_directory(_, "<diretoria>").```
 
-- No **Mac** correr:
+- No **Mac** ou **Linux** correr:
 ```?- working_directory(_, "/Users/<diretoria>").```
 
 Nota1: Sim, podes usar o teu amigo Ctrl-C; Ctrl-V.
