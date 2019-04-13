@@ -28,7 +28,7 @@ Escreve o teu código no teu editor de texto favorito, guardando-o como <nome-do
 
 Nota1: Sim, podes usar o teu amigo Ctrl-C; Ctrl-V.
 
-ATENÇÃO: na diretoria deves acrescentar uma \ por cada \ no caminho, tal como no exemplo!
+ATENÇÃO: na diretoria deves acrescentar uma \ por cada \ no caminho, tal como no exemplo! (No Mac ou Linux, fazer / por cada /)
 
 - Corres o teu programa assim:
 ```?- [programa].```
